@@ -39,7 +39,7 @@
 ## Illustrations
 - [Draw Kit](https://drawkit.com/)
 - [Free Illustrations](https://freeillustrations.xyz/)
-- [Emoji Cheat Sheet](hhttps://www.webfx.com/tools/emoji-cheat-sheet/)
+- [Emoji Cheat Sheet](https://www.webfx.com/tools/emoji-cheat-sheet/)
 
 ## Inspiration
 - [CSS Design Awards Blog](https://www.cssdesignawards.com/blog)
