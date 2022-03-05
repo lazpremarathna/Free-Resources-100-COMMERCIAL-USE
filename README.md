@@ -16,6 +16,7 @@
 ### Color Converters
 - [Convert a Color](https://convertacolor.com/)
 ### Color Palette Generators
+- [Color Hunt](https://www.colorhunt.co/) - Color Palettes for Designers and Artists
 - [My Color](https://mycolor.space/)
 ### Gradients
 - [Gradient Magic](https://www.gradientmagic.com/)
@@ -38,10 +39,10 @@
 ## Illustrations
 - [Draw Kit](https://drawkit.com/)
 - [Free Illustrations](https://freeillustrations.xyz/)
+- [Emoji Cheat Sheet](hhttps://www.webfx.com/tools/emoji-cheat-sheet/)
 
 ## Inspiration
 - [CSS Design Awards Blog](https://www.cssdesignawards.com/blog)
-- [Cody House](https://codyhouse.co/) - Kick-start your projects with HTML, CSS, JS components
 - [Design Systems Repo](https://designsystemsrepo.com/) - A frequently updated collection of Design System
 - [Identity Designed](https://identitydesigned.com/)
 - [Lapa Ninja](https://www.lapa.ninja/) - A Gallery Featuring the Best Landing Page Examples
@@ -55,8 +56,12 @@
 - [Burst](https://burst.shopify.com/)
 - [Free Nature Stock](https://freenaturestock.com/)
 - [Pexels](https://www.pexels.com/)
+- [Rounded Hexagon](https://www.roundedhexagon.com/textures/) - Free Textures
 - [Stock Snap](https://stocksnap.io/)
 - [Unsplash](https://unsplash.com/)
 
 ## Sites
+- [Cody House](https://codyhouse.co/) - Kick-start your projects with HTML, CSS, JS components
+- [Creative AI Lab](https://creative-ai.org/) - List of AI & ML tools and resources for artists, engineers, curators & researchers
 - [Product Hunt](https://www.producthunt.com/)
+- [WWWhere](http://wwwhere.io/) - A curated list of tools and resources for people who make websites
